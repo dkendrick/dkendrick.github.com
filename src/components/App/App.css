@@ -1,0 +1,24 @@
+.App-header {
+  background-image: url(./splash.jpg);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+}
+
+.App-header .title {
+  letter-spacing: 2px;
+  font-size: 3.5rem;
+}
+
+.App-header .subtitle {
+  letter-spacing: 4px;
+  font-size: 2rem;
+}
+
+.App-header h4 {
+  letter-spacing: 2px;
+  font-size: 1rem;
+}
