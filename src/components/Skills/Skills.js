@@ -17,8 +17,7 @@ const Skills = () => {
         <ul className="list-group">
           <li className="list-group-item">React</li>
           <li className="list-group-item">AngularJS</li>
-          <li className="list-group-item">HTML5</li>
-          <li className="list-group-item">CSS3</li>
+          <li className="list-group-item">HTML5/CSS3</li>
         </ul>
       </div>
     );
